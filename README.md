@@ -1,6 +1,6 @@
 # elimupi2.0
 
- This is a fork of the Rachel image builder adapted for DEAN. 
+This is a fork of the Rachel image builder adapted for DEAN. 
 
 Purpose is to provide a classroom environment for educational project in Tanzania and Kenia. Its purpose it to provide full Android tablet support without any direct internet connectivity. 
 
